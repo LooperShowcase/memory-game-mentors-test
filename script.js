@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
       firstCard.classList.remove("flipped");
       secondCard.classList.remove("flipped");
       unlockBoard();
-    }, 300);
+    }, 3000);
   }
 });
 
